@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-rahna/static/css/main.d8b03168.css",
+    "main.js": "/portfolio-rahna/static/js/main.fe8d87b4.js",
+    "static/media/profour.jpg": "/portfolio-rahna/static/media/profour.86f96e3e3813f5e50f53.jpg",
+    "static/media/prosix.jpg": "/portfolio-rahna/static/media/prosix.64bf2dc464a9875ae9ba.jpg",
+    "static/media/RahnaA.jpeg": "/portfolio-rahna/static/media/RahnaA.944e0741706c8fad846e.jpeg",
+    "static/media/contactImg.png": "/portfolio-rahna/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/profive.jpg": "/portfolio-rahna/static/media/profive.dc51a3a202efe62b03bb.jpg",
+    "static/media/prone.jpg": "/portfolio-rahna/static/media/prone.19c66905f3c323c2454f.jpg",
+    "static/media/testimonialOne.png": "/portfolio-rahna/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/prothree.jpg": "/portfolio-rahna/static/media/prothree.1d3b76e826d40437fbf4.jpg",
+    "static/media/testimonialTwo.png": "/portfolio-rahna/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/protwo.jpg": "/portfolio-rahna/static/media/protwo.17558b3a2177f7989f98.jpg",
+    "index.html": "/portfolio-rahna/index.html",
+    "main.d8b03168.css.map": "/portfolio-rahna/static/css/main.d8b03168.css.map",
+    "main.fe8d87b4.js.map": "/portfolio-rahna/static/js/main.fe8d87b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b03168.css",
+    "static/js/main.fe8d87b4.js"
+  ]
+}
